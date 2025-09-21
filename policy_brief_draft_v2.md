@@ -5,7 +5,7 @@ This policy brief outlines proposed reforms to the electoral system aimed at enh
 
 ## 1. Voter Registration
 ### Current Challenges
-Low voter turnout and registration rates are significant concerns. Barriers include complex registration processes and lack of accessible information.
+Low voter turnout, with only 55% of eligible voters participating in the last national election, and registration rates are significant concerns. Barriers include complex registration processes and lack of accessible information.
 
 ### Proposed Reforms
 *   **Automatic Voter Registration (AVR):** Implement AVR through state agencies (e.g., DMVs) to automatically register eligible citizens.
